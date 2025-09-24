@@ -31,7 +31,7 @@ Buat program **latihan2.php**
 
 ## Soal 3 - Input Float
 
-Buat program latihan3.php
+Buat program **latihan3.php**
 
 - Pada saat program dijalankan minta pengguna memasukkan berat badan, dan tinggi badan.
 - Simpan kedua nilai tersebut ke dalam variable dan ubah nilainya menjadi tipe data float.

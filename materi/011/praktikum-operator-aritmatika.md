@@ -120,3 +120,22 @@ Subtotal = 23500
 Pajak 10% = 2350
 Total Bayar = 25850
 ```
+
+## Soal 9 - Pangkat (Persegi & Kubus)
+
+**Skenario**
+
+Sebuah bengkel kayu ingin menghitung kebutuhan bahan. Bidang pertama berbentuk persegi dan yang kedua berbentuk kubus. Diketahui sisi (dalam cm).
+
+Tugasmu membuat program yang:
+
+1. Meminta input `sisi` dari pengguna.
+2. Menghitung luas persegi: `LuasPersegi = sisi ** 2`.
+3. Menghitung volume kubus: `VolumKubus` = sisi \*\* 3`.
+4. Menampilkan hasil dengan satuan yang tepat.
+
+```
+Masukkan sisi (cm): 5
+Luas persegi = 25 cm^2
+Volume kubus = 125 cm^3
+```
