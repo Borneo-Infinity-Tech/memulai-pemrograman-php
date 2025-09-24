@@ -98,4 +98,4 @@ Jalankan kode PHP tersebut. Apa yang tampil di prompt ?
 
 ---
 
-## [Praktikum](praktikum.md)
+## [Praktikum](/materi/010/praktikum.md)

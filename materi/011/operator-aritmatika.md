@@ -103,4 +103,4 @@ echo 3 ** 3; 27
 ?>
 ```
 
-## [Praktikum](praktikum-operator-aritmatika.md)
+## [Praktikum](/materi/011/praktikum-operator-aritmatika.md)
