@@ -37,6 +37,9 @@ Output: `Luas Persegi Panjang: 40`
 Diberikan: `alas` dan `tinggi`
 Tugas: hitung luas segitiga `Luas = (alas x tinggi) / 2`
 
+Nilai alas 10 dan tinggi 6
+Output: `Luas Segitiga: 30`
+
 ## Soal 4 - Menghitung Keliling Persegi dengan Input
 
 **Skenario**
