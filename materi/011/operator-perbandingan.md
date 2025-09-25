@@ -45,4 +45,4 @@
 
 - `>=` (lebih besar atau sama)
 
-  **Contoh:** `6 >= 7` nilai `true`
+  **Contoh:** `6 >= 7` nilai `false`
