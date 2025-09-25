@@ -5,7 +5,7 @@ Operator adalah simbol khusus yang digunakan dalam pemrograman untuk melakukan o
 Secara umum, operator pada PHP terbagi menjadi beberapa jenis:
 
 1. [Operator Aritmatika](/materi/011/operator-aritmatika.md)
-2. Operator Penugasan (Assignment)
+2. [Operator Penugasan (Assignment)](/materi/011/operator-penugasan.md)
 3. Operator Perbandingan
 4. Operator Logika
 5. Operator Increment/Decrement

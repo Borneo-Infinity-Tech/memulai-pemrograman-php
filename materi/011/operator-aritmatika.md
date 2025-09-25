@@ -125,5 +125,3 @@ echo "Sisa Hasil Bagi = $modulus \n";
 ```
 
 ## [Praktikum](/materi/011/praktikum-operator-aritmatika.md)
-
-

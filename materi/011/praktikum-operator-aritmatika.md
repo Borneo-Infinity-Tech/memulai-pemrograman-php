@@ -18,7 +18,7 @@ Pada setiap file PHP tambahkan kode ini di bagian awal setelah pembuka `<?php`
 Diberikan: `sisi`
 Tugas: hitung keliling persegi `Keliling = 4 x sisi`
 
-Buat variabel sisi bernilai `7`.
+Buat variabel **sisi** bernilai `7`.
 Masukkan ke dalam rumus untuk menghitung keliling persegi.
 
 Output ketika program dijalankan
@@ -29,7 +29,8 @@ Output ketika program dijalankan
 Diberikan: `panjang` dan `lebar`
 Tugas: hitung luas persegi panjang `Luas = panjang x lebar`
 
-Nilai panjang 8, dan lebar 5.
+Nilai **panjang** 8, dan **lebar** 5.
+
 Output: `Luas Persegi Panjang: 40`
 
 ## Soal 3 - Luas Segitiga
@@ -37,7 +38,8 @@ Output: `Luas Persegi Panjang: 40`
 Diberikan: `alas` dan `tinggi`
 Tugas: hitung luas segitiga `Luas = (alas x tinggi) / 2`
 
-Nilai alas 10 dan tinggi 6
+Nilai **alas** 10 dan **tinggi** 6
+
 Output: `Luas Segitiga: 30`
 
 ## Soal 4 - Menghitung Keliling Persegi dengan Input
