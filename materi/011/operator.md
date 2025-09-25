@@ -6,6 +6,6 @@ Secara umum, operator pada PHP terbagi menjadi beberapa jenis:
 
 1. [Operator Aritmatika](/materi/011/operator-aritmatika.md)
 2. [Operator Penugasan (Assignment)](/materi/011/operator-penugasan.md)
-3. Operator Perbandingan
+3. [Operator Perbandingan](/materi/011/operator-perbandingan.md)
 4. Operator Logika
 5. Operator Increment/Decrement
