@@ -83,11 +83,11 @@ echo 5**2; // Output: 25
 <?php
 $a = 15;
 $b = 4;
-echo $a + $b; // 19
-echo $a - $b; // 11
-echo $a * $b; // 60
-echo $a / $b; // 3.75
-echo $a % $b; // 3
+echo $a + $b; // Output: 19
+echo $a - $b; // Output: 11
+echo $a * $b; // Output: 60
+echo $a / $b; // Output: 3.75
+echo $a % $b; // Output: 3
 ?>
 ```
 
@@ -95,11 +95,11 @@ echo $a % $b; // 3
 
 ```php
 <?php
-echo (5 + 2) / 3; // 2.333
-echo (10 + 3) - 1 * 2; // 11
+echo (5 + 2) / 3; // Output: 2.333
+echo (10 + 3) - 1 * 2; // Output: 11
 
-echo 2 ** 4; 16
-echo 3 ** 3; 27
+echo 2 ** 4; // Output: 16
+echo 3 ** 3; // Output: 27
 ?>
 ```
 
@@ -125,4 +125,5 @@ echo "Sisa Hasil Bagi = $modulus \n";
 ```
 
 ## [Praktikum](/materi/011/praktikum-operator-aritmatika.md)
+
 
