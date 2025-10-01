@@ -124,4 +124,5 @@ echo "Sisa Hasil Bagi = $modulus \n";
 ?>
 ```
 
-## [Praktikum](/materi/011/praktikum-operator-aritmatika.md)
+- ## [Praktikum](/materi/011/praktikum-operator-aritmatika.md)
+- ## [Praktikum 2](/materi/011/praktikum-operator-aritmatika-2.md)
