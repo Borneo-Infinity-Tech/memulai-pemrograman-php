@@ -50,7 +50,7 @@ Pada setiap file PHP tambahkan kode ini di bagian awal setelah pembuka `<?php`
 
 **Tujuan:** menghitung USD diterima setelah biaya admin.
 
-\*\*Input: \*\* rupiah ditukar, kurs (Rp per 1 USD), biaya admin (%)
+**Input:** rupiah ditukar, kurs (Rp per 1 USD), biaya admin (%)
 
 **Proses:** `rp_bersih = rupiah * (1 - admin/100)` → `usd = rp_bersih / kurs`
 
@@ -106,3 +106,4 @@ Pada setiap file PHP tambahkan kode ini di bagian awal setelah pembuka `<?php`
 - `Poko pinjaman: Rp <pokok>`
 - `Total bunga: Rp <bunga_total>`
 - `Angsuran perbulan: Rp <angsuran_bulanan>`
+
