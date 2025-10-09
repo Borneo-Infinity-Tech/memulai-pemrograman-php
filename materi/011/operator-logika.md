@@ -24,4 +24,36 @@ echo ($a && $c); // false
 ?>
 ```
 
-## Operator `||` dan `OR`
+### Operator `||` dan `OR`
+
+Operator ini menghasilkan **true** jika **setidaknya satu** dari kondisi bernilai **true**. Hanya akan menghasilkan **false** jika **semua kondisi false**.
+
+**Contoh:**
+
+```php
+<?php
+$a = true;
+$b = false;
+
+echo ($a || $b); // true (karena salah satu benar)
+echo "<br>";
+echo ($b || false); // false (karena dua-duanya salah)
+?>
+```
+
+### Operator `!` NOT
+
+Operator ini berfungsi untuk **membalikkan nilai logika**. Jika nilai aslinya `true`, maka hasilnya `false`. Jika nilai aslinya `false`, maka hasilnya `true`.
+
+**Contoh:**
+
+```php
+<?php
+$a = true;
+$b = false;
+
+echo !$a; // false (karena dibalik)
+echo "<br>";
+echo !$b; // true (karena dibalik)
+?>
+```
