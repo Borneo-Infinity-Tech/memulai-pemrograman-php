@@ -57,3 +57,5 @@ echo "<br>";
 echo !$b; // true (karena dibalik)
 ?>
 ```
+
+## [Praktikum](/materi/011/praktikum-operator-logika.md)
