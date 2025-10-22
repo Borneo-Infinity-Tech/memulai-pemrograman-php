@@ -23,7 +23,7 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 
 ## Flow Controls (Percabangan) pada PHP
 
-1. if Statement
+1. [if Statement](materi/012/if-statement.md)
 2. if...else Statement
 3. Elseif Statement
 4. Percabangan Bersarang
