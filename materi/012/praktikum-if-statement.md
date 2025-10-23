@@ -128,3 +128,8 @@ Jika kedua kondisi benar, tampilkan **“Login berhasil”**.
 💡 _Petunjuk berpikir:_  
 Gunakan `&&` antara dua perbandingan string.  
 Coba pikirkan apa yang akan terjadi jika hanya satu dari dua data benar.
+
+---
+
+## [Praktikum 2](/materi/012/praktikum2-if-statement.md)
+
