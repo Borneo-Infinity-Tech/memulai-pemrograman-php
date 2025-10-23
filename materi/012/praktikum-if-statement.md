@@ -131,5 +131,6 @@ Coba pikirkan apa yang akan terjadi jika hanya satu dari dua data benar.
 
 ---
 
-## [Praktikum 2](/materi/012/praktikum2-if-statement.md)
+## [Praktikum 2]
+
 
