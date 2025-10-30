@@ -16,7 +16,7 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 ## Komentar, Variable, Tipe Data, Input, dan Operator
 
 1. Komentar pada PHP
-2. Variable pada PHP
+2. [Variable pada PHP](materi/008/variabel.md)
 3. [Tipe Data pada PHP](materi/009/tipe-data.md)
 4. [Input pada PHP](materi/010/input.md)
 5. [Operator pada PHP](materi/011/operator.md)
@@ -24,7 +24,7 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 ## Flow Controls (Percabangan) pada PHP
 
 1. [if Statement](materi/012/if-statement.md)
-2. if...else Statement
+2. [if...else Statement](materi/012/if-else-statement.md)
 3. Elseif Statement
 4. Percabangan Bersarang
 5. Switch...Case Statement
