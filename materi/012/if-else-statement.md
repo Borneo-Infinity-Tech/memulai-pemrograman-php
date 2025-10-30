@@ -29,8 +29,8 @@ if (kondisi) {
 
 **Penjelasan**
 
-- `**if**` berarti “jika”. Bagian ini akan dicek dulu apakah kondisinya benar (`TRUE`).
-- `**else**` berarti “jika tidak”. Bagian ini dijalankan jika kondisi `if` tidak terpenuhi (`FALSE`).
+- `if` berarti “jika”. Bagian ini akan dicek dulu apakah kondisinya benar (`TRUE`).
+- `else` berarti “jika tidak”. Bagian ini dijalankan jika kondisi `if` tidak terpenuhi (`FALSE`).
 - **Kondisi** biasanya berupa ekspresi logika, misalnya `>`, `<`, `==`, `!=`, `>=`, `<=`.
 
 ## Contoh Sederhana dari Kehidupan Sehari-hari
