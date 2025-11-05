@@ -4,7 +4,7 @@ Langkah pertama dalam belajar PHP adalah menampilkan teks sederhana ke layar. Bi
 
 Buat file dengana nama **HelloWorld.php**.
 
-![Program Pertama PHP](/img/program-pertama-php-01.png)
+![Program Pertama PHP](img/program-pertama-php-01.png)
 
 Tulisakan kode di bawah ini.
 
@@ -29,11 +29,11 @@ Jalankan kode melalui terminal, dengan mengetikan perintah **php** diikuti denga
 php HelloWorld.php
 ```
 
-![Program Pertama PHP](/img/program-pertama-php-02.png)
+![Program Pertama PHP](img/program-pertama-php-02.png)
 
 Tekan Enter untuk melihat hasil akhir program. Maka akan tampil tulisan Hallo, Dunia! pada terminal.
 
-![Program Pertama PHP](/img/program-pertama-php-03.png)
+![Program Pertama PHP](img/program-pertama-php-03.png)
 
 ## Menampilkan Beberapa Baris Teks
 
@@ -78,7 +78,7 @@ Belajar PHP itu mudah!
 
 #### **Penjelasan:**
 
-- Tanda `**.**` digunakan untuk **menggabungkan (concatenate)** teks.
+- Tanda **titik** `.` digunakan untuk **menggabungkan (concatenate)** teks.
 - PHP akan menampilkan hasil gabungan tersebut sebagai satu kalimat utuh.
 
 Selamat! Kamu sudah berhasil membuat dan menjalankan **program pertama PHP melalui terminal**.  

@@ -11,7 +11,7 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 3. [Apa Itu PHP?](materi/003/apa-itu-php.md)
 4. Fitur pada PHP
 5. Installasi PHP
-6. [Program Pertama PHP](/materi/006/program-pertama-php.md)
+6. [Program Pertama PHP](materi/006/program-pertama-php.md)
 
 ## Komentar, Variable, Tipe Data, Input, dan Operator
 
@@ -25,7 +25,7 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 
 1. [if Statement](materi/012/if-statement.md)
 2. [if...else Statement](materi/012/if-else-statement.md)
-3. Elseif Statement
+3. [Elseif Statement](materi/012/if-elseif-else-statement.md)
 4. Percabangan Bersarang
 5. Switch...Case Statement
 
