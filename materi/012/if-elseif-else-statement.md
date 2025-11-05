@@ -8,11 +8,11 @@ Dalam kehidupan sehari-hari, kita sering membuat keputusan berdasarkan kondisi t
 - Jika tidak hujan tapi mendung, kita membawa jas hujan.
 - Jika cerah, kita tidak perlu membawa apa pun.
 
-Dalam pemrograman, logika pengambilan keputusan seperti ini disebut **percabangan**. PHP menyediakan beberapa bentuk percabangan, dan salah satu yang paling umum digunakan adalah `**if...elseif...else**` **statement**.
+Dalam pemrograman, logika pengambilan keputusan seperti ini disebut **percabangan**. PHP menyediakan beberapa bentuk percabangan, dan salah satu yang paling umum digunakan adalah `if...elseif...else` **statement**.
 
 ## Pengertian `if...elseif...else` Statement
 
-Pernyataan `**if...elseif...else**` digunakan dalam PHP untuk **menjalankan bagian kode tertentu berdasarkan kondisi yang diuji**. Dengan kata lain, program akan **mengecek satu per satu kondisi yang diberikan** dan **menjalankan perintah yang sesuai dengan kondisi yang benar (true)**. Jika semua kondisi salah (false), maka bagian `else` akan dijalankan sebagai “jalan terakhir”.
+Pernyataan `if...elseif...else` digunakan dalam PHP untuk **menjalankan bagian kode tertentu berdasarkan kondisi yang diuji**. Dengan kata lain, program akan **mengecek satu per satu kondisi yang diberikan** dan **menjalankan perintah yang sesuai dengan kondisi yang benar (true)**. Jika semua kondisi salah (false), maka bagian `else` akan dijalankan sebagai “jalan terakhir”.
 
 Struktur dasarnya adalah sebagai berikut:
 
