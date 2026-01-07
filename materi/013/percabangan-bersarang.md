@@ -144,3 +144,7 @@ Namun, **hindari terlalu banyak percabangan bersarang**, karena:
 Percabangan bersarang dalam PHP sangat berguna untuk menangani kondisi yang saling bergantung. Dengan memahami konsep ini, kita dapat membuat program yang lebih cerdas dan sesuai dengan kebutuhan logika yang kompleks.
 
 Kunci utama dalam menggunakan percabangan bersarang adalah **menjaga kode tetap rapi, mudah dibaca, dan tidak berlebihan**. Dengan latihan dan pemahaman yang baik, percabangan bersarang akan menjadi alat yang sangat membantu dalam pemrograman PHP.
+
+---
+
+[Praktikum](/materi/013/praktikum/01.md)
