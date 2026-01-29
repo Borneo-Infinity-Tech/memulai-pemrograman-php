@@ -32,9 +32,10 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 
 ## Loops (Perulangan) pada PHP
 
-1. Perulangan for
-2. Perulangan while
-3. Perulangan do...while
+1. [Pendahuluan Perulangan](materi/015/pendahuluan-perulangan.md)
+2. [Perulangan for](materi/016/perulangan-for.md)
+3. Perulangan while
+4. Perulangan do...while
 
 ## Array pada PHP
 
@@ -55,5 +56,3 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 4. Memanggil Function
 5. Argumen pada Function
 6. Function PHP Mengembailkan Nilai
-
-
