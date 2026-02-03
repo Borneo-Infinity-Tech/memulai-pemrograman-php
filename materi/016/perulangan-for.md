@@ -100,3 +100,7 @@ Pemahaman perulangan `for` akan menjadi dasar untuk mempelajari perulangan lainn
 ---
 
 [Latihan Soal Perulangan for](/materi/016/latihan.md)
+
+---
+
+[Praktikum](/materi/016/praktikum/01.md)
