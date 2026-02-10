@@ -28,7 +28,7 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 3. [Elseif Statement](materi/012/if-elseif-else-statement.md)
 4. [Praktikum: if...elseif...else](/materi/012/praktikum-elseif.md)
 5. [Percabangan Bersarang](/materi/013/percabangan-bersarang.md)
-6. Switch...Case Statement
+6. [Switch...Case Statement](/materi/014/switch-case.md)
 
 ## Loops (Perulangan) pada PHP
 

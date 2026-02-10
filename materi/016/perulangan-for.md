@@ -1,6 +1,6 @@
 # Perulangan `for`
 
-Dalam pemrograman PHP, sering kali kita harus menjalankan sebuah perintah yang sama secara berulang-ulang. Contohnya menampilkan angka 1 sampai 10, mencetak daftar nama, atau menampilkan data secara berurutan. Jika perintah tersebut ditulis satu per satu, kode akan menjadi panjang dan kurang efisien. Untuk mengatasi hal tersebut, PHP menyediakan struktur **perulangan** `**for**`. Perulangan ini sangat berguna ketika kita sudah mengetahui berapa kali suatu perintah akan diulang.
+Dalam pemrograman PHP, sering kali kita harus menjalankan sebuah perintah yang sama secara berulang-ulang. Contohnya menampilkan angka 1 sampai 10, mencetak daftar nama, atau menampilkan data secara berurutan. Jika perintah tersebut ditulis satu per satu, kode akan menjadi panjang dan kurang efisien. Untuk mengatasi hal tersebut, PHP menyediakan struktur **perulangan** `for`. Perulangan ini sangat berguna ketika kita sudah mengetahui berapa kali suatu perintah akan diulang.
 
 ## Pengertian Perulangan `for`
 

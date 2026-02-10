@@ -24,7 +24,7 @@ Data ini bisa berupa:
 - Teks (misalnya: "Halo Dunia")
 - Nilai logika (benar/salah atau `true/false`)
 
-Di PHP, semua variabel **selalu diawali dengan tanda** `**$**` **(dolar)**, diikuti oleh nama variabelnya.
+Di PHP, semua variabel **selalu diawali dengan tanda** `$` **(dolar)**, diikuti oleh nama variabelnya.
 
 **Contoh:**
 
