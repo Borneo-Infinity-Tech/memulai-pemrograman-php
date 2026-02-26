@@ -32,27 +32,51 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 
 ## Loops (Perulangan) pada PHP
 
-1. [Pendahuluan Perulangan](materi/015/pendahuluan-perulangan.md)
+1. [Pengenalan Perulangan](materi/015/pendahuluan-perulangan.md)
 2. [Perulangan for](materi/016/perulangan-for.md)
-3. Perulangan while
+3. [Perulangan while](materi/017/perluangan-while.md)
 4. Perulangan do...while
 
 ## Array pada PHP
 
 1. Pengenalan Array
-2. Array Terindex
-3. Array Assosiatif
-4. Membuat Array
-5. Mengakses nilai Array
-6. Menghapus nilai Array
-7. Mengubah nilai Array
-8. Array Multidimensi
+2. Membuat Array
+3. Array Terindeks
+4. Array Assosiatif
+5. Array Multidimensi
+6. Mengakses nilai Array
+7. Menghapus nilai Array
+8. Mengubah nilai Array
 
 ## Function pada PHP
 
-1. Function Bawaan PHP
-2. Function yang ditentukan pengguna
-3. Membuat Function
-4. Memanggil Function
-5. Argumen pada Function
-6. Function PHP Mengembailkan Nilai
+1. Pengenalan Function
+2. Membuat Function
+3. Memanggil Function
+4. Argumen pada Function
+5. Function Mengembalikan Nilai (return)
+6. Function Bawaan PHP
+
+## Scope Variable PHP
+
+1. Pengenalan Scope Variabel
+2. Local Scope
+3. Global Scope
+4. Keyword global
+5. `$GLOBALS`
+6. Static Variable
+
+## Object Oriented Programming (OOP) dalam PHP
+
+1. Pengenalan OOP
+2. Class dan Object
+3. Property & Method
+4. Constructor (`__construct`)
+5. Visibility (Access Modifier)
+6. Encapsulation
+7. Static Property & Static Method
+8. Inheritance (Pewarisan)
+9. Final Keyword
+10. Abstract Class
+11. Interface
+12. Trait
