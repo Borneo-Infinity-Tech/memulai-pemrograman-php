@@ -72,7 +72,7 @@ Di dalam perulangan while, kita harus memastikan kondisi bisa menjadi false. Jik
 
 Contoh salah:
 
-```
+```php
 <?php
 $angka = 1;
 
