@@ -132,3 +132,7 @@ Perulangan `while` dalam PHP adalah salah satu struktur kontrol yang sangat pent
 Dengan memahami cara kerja while, cara membuat kondisi yang benar, serta menghindari infinite loop, kita dapat membuat program yang lebih dinamis dan efisien.
 
 Teruslah berlatih membuat berbagai variasi perulangan agar semakin memahami logika pemrograman. Semakin sering mencoba, semakin mudah memahami konsepnya.
+
+---
+
+[Praktikum](/materi/017/praktikum/01.md)
