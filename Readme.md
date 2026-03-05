@@ -35,7 +35,7 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 1. [Pengenalan Perulangan](materi/015/pendahuluan-perulangan.md)
 2. [Perulangan for](materi/016/perulangan-for.md)
 3. [Perulangan while](materi/017/perluangan-while.md)
-4. Perulangan do...while
+4. [Perulangan do...while](materi/018/perulangan-do-while.md)
 
 ## Array pada PHP
 

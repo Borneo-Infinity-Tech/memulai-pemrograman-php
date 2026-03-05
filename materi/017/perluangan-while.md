@@ -43,7 +43,7 @@ Contoh 1: Menampilkan Angka 1 sampai 5
 $angka = 1;
 
 while ($angka <= 5) {
-    echo "Angka ke-" . $angka . "<br>";
+    echo "Angka ke-" . $angka . "\n";
     $angka++;
 }
 ?>
