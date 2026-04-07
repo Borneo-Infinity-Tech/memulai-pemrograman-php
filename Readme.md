@@ -39,14 +39,13 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 
 ## Array pada PHP
 
-1. Pengenalan Array
-2. Membuat Array
-3. Array Terindeks
-4. Array Assosiatif
-5. Array Multidimensi
-6. Mengakses nilai Array
-7. Menghapus nilai Array
-8. Mengubah nilai Array
+1. [Pengenalan Array](materi/019/pengenalan-array.md)
+2. Array Terindeks
+3. Array Assosiatif
+4. Array Multidimensi
+5. Mengakses nilai Array
+6. Menghapus nilai Array
+7. Mengubah nilai Array
 
 ## Function pada PHP
 
