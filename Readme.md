@@ -40,8 +40,8 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 ## Array pada PHP
 
 1. [Pengenalan Array](materi/019/pengenalan-array.md)
-2. Array Terindeks
-3. Array Assosiatif
+2. [Menapilkan Array](materi/020/menampilkan-array.md)
+3. [Array Assosiatif](materi/021/array-asosiatif.md)
 4. Array Multidimensi
 5. Mengakses nilai Array
 6. Menghapus nilai Array
