@@ -40,7 +40,7 @@ $buah = [
 ];
 ```
 
-**Menggunakan fungsi** `**array()**`
+**Menggunakan fungsi** `array()`
 
 ```php
 $buah = array(
@@ -95,7 +95,7 @@ if ($siswa["nilai"] >= 80) {
 
 ## Perbedaan Array Terindeks dan Asosiatif
 
-<table><tbody><tr><td><strong>Array Terindeks</strong></td><td><strong>Array Asosiatif</strong></td></tr><tr><td>Menggunakan angka</td><td>Menggunakan teks (key)</td></tr><tr><td>Contoh: $data[0]</td><td>Contoh: $data["nama"]</td></tr><tr><td>Cocok untuk daftar</td><td>Cocok untuk data berlabel</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Array Terindeks</strong></td><td><strong>Array Asosiatif</strong></td></tr><tr><td>Menggunakan angka</td><td>Menggunakan teks (key)</td></tr><tr><td>Contoh: <code>$data[0]</code></td><td>Contoh: <code>$data["nama"]</code></td></tr><tr><td>Cocok untuk daftar</td><td>Cocok untuk data berlabel</td></tr></tbody></table>
 
 ## Hal Penting yang Perlu Diingat
 

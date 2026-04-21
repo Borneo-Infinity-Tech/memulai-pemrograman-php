@@ -53,7 +53,7 @@ $buah = ["Apel", "Jeruk", "Mangga"];
 
 $i = 0;
 while ($i < count($buah)) {
-    echo $buah[$i] . "<br>";
+    echo $buah[$i] . "\n";
     $i++;
 }
 ?>
@@ -76,7 +76,7 @@ while ($i < count($buah)) {
 $buah = ["Apel", "Jeruk", "Mangga"];
 
 foreach ($buah as $item) {
-    echo $item . "<br>";
+    echo $item . "\n";
 }
 ?>
 ```
@@ -93,14 +93,14 @@ foreach ($buah as $item) {
 $buah = ["Apel", "Jeruk", "Mangga"];
 
 foreach ($buah as $index => $item) {
-    echo "Index ke-$index: $item <br>";
+    echo "Index ke-$index: $item \n";
 }
 ?>
 ```
 
 Dalam PHP, menampilkan array bisa dilakukan dengan berbagai jenis perulangan. Namun dalam praktik sehari-hari:
 
-- Gunakan `**foreach**` untuk kemudahan dan kejelasan kode
-- Gunakan `**for**` **atau** `**while**` jika butuh kontrol lebih terhadap index
+- Gunakan `foreach` untuk kemudahan dan kejelasan kode
+- Gunakan `for` **atau** `while` jika butuh kontrol lebih terhadap index
 
 Memahami ketiga cara ini sangat penting karena akan sering digunakan saat mengolah data, terutama dari database.
