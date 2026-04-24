@@ -129,3 +129,7 @@ echo $buah[2]; // Output: Mangga
 Array adalah konsep dasar yang sangat penting dalam PHP. Dengan memahami array, kita dapat menyimpan dan mengelola banyak data dengan lebih mudah dan rapi.
 
 Materi ini masih merupakan pengenalan dasar. Pada tahap selanjutnya, kita akan mempelajari cara menggunakan array dengan lebih lanjut.
+
+---
+
+## [Latihan](materi/019/latihan.md)

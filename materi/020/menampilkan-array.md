@@ -104,3 +104,7 @@ Dalam PHP, menampilkan array bisa dilakukan dengan berbagai jenis perulangan. Na
 - Gunakan `for` **atau** `while` jika butuh kontrol lebih terhadap index
 
 Memahami ketiga cara ini sangat penting karena akan sering digunakan saat mengolah data, terutama dari database.
+
+---
+
+## [Latihan](materi/020/latihan.md)
