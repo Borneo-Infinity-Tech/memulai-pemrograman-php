@@ -162,3 +162,7 @@ Array multidimensi digunakan ketika:
 ---
 
 Array multidimensi sangat berguna untuk mengelola data yang kompleks, seperti data tabel atau kumpulan data yang saling berhubungan. Dengan memahami konsep ini, kamu bisa membuat program yang lebih terstruktur dan kuat.
+
+---
+
+## [Latihan](materi/022/latihan.md)

@@ -109,3 +109,7 @@ if ($siswa["nilai"] >= 80) {
 ---
 
 Array asosiatif sangat membantu dalam mengelola data yang memiliki label atau keterangan. Dengan menggunakan key, kita bisa mengakses data dengan lebih jelas dan mudah dipahami.
+
+---
+
+## [Latihan](materi/021/latihan.md)
