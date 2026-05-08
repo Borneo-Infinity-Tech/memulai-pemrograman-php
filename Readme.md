@@ -44,7 +44,7 @@ Selamat datang di kelas memulai pemrograman PHP. Pada kelas ini kita akan belaja
 3. [Array Assosiatif](materi/021/array-asosiatif.md)
 4. [Array Multidimensi](materi/022/array-multidimensi.md)
 5. [Menambah Nilai Baru Array](materi/023/menambah-data-array.md)
-6. Menghapus nilai Array
+6. [Menghapus nilai Array](materi/024/menghapus-nilai-array.md)
 7. Mengubah nilai Array
 
 ## Function pada PHP
